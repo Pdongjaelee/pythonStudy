@@ -1,3 +1,5 @@
+### section 1 ~ 3
+
 
 ## 변수 설정
 animal = "강아지"
@@ -161,7 +163,7 @@ print("저는 \"나도코딩\"입니다.")
 print("저는 \'나도코딩\'입니다.")
 
 # \\ : 문장 내에서는  \로 읽힘
-print("C:\\Python37\\python.exe C:\\Users\\USER\\PycharmProjects\\pythonStudy\\nadoStudy.py")
+# print("C:\\Python37\\python.exe C:\\Users\\USER\\PycharmProjects\\pythonStudy\\nadoStudy.py")
 
 # \r : 커서를 맨 앞으로 이동
 print("Red Apple\rPine")
